@@ -60,5 +60,5 @@ body {
 .part2 button:hover{
   background-color: rgb(106, 36, 141);
   color: white;
-  transform: scale(1.5);
+  transform: scale(1.1);
 }
